@@ -1,1 +1,2 @@
-streamlit==0.69
+opencv-python
+streamlit>0.66
